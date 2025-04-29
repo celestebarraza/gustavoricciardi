@@ -1,0 +1,61 @@
+.my-navbar{
+background-color: red !important;
+}
+.title{
+    justify-self: center;
+}
+.auto1 img{
+    justify-self: center;
+    width: 100%;
+    height: auto;
+}
+.camioneta1{
+    justify-self: center;
+}
+.autoetios img{
+    justify-self: center;
+    width: 100%;
+    height: auto;
+  
+}
+.gestoria2{
+    justify-self: center;
+}
+.hilux1{
+    justify-self: center;
+    color: red;
+}
+.plan2025{
+    justify-self: center;
+    color: red;
+}
+.h1{
+    justify-self:center;
+    color: red;
+   
+
+}
+.carousel-item img{
+    width: 80%;
+    height:auto;
+}
+
+
+@media (max-width:768px)
+
+
+
+{
+ul li {
+    list-style-type: none;
+}
+.fotoseguro {
+    width: 100%;
+    height: auto;
+}
+.autito2 {
+    display: flex;
+   justify-self: center;
+
+}
+}
